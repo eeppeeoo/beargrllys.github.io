@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/shiva.jpg'
+cover: <amp-img src="http://textures101.com/textures/Wood/Plywood/2011/7/12/tn1_hickoryhardwood_gdgzw.jpg" layout="responsive" alt="" class="mb3"></amp-img>
 title: 사진 보기
 date: 2017-12-15 09:55:00
 tags: guide
@@ -22,10 +22,6 @@ author: 윤지상
 
 <h3>Image</h3>
 <amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/KakaoTalk_20170929_205035745.jpg?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
-<hr/>
-
-<h3>Image</h3>
-<amp-img src="{{ site.baseurl }}assets/images/shiva.jpg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 <hr/>
 
 <h3>Image</h3>
