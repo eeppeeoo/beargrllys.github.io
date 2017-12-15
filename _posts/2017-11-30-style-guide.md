@@ -83,7 +83,7 @@ author: 윤지상
 
 <h3 id="video">Video</h3>
 
-<p>오픈소스 최종발표 동영상 URL : <a herf = "https://youtu.be/XUpaIdQQ8QM">동영상 보기 </a> </p>
+<p>오픈소스 최종발표 동영상 URL : <a herf = "https://youtu.be/XUpaIdQQ8QM">동영상 보기: https://www.youtube.com/watch?v=XUpaIdQQ8QM </a> </p>
 
 <amp-youtube width="480"
   height="270"
