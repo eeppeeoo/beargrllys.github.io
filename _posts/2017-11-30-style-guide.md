@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: <amp-img src="http://textures101.com/textures/Wood/Plywood/2011/7/12/tn1_hickoryhardwood_gdgzw.jpg" layout="responsive" alt="" class="mb3"></amp-img>
+cover: 'https://github.com/beargrllys/beargrllys.github.io/blob/master/KakaoTalk_20171205_175303535.jpg?raw=true'
 title: 사진 보기
 date: 2017-12-15 09:55:00
 tags: guide
