@@ -80,6 +80,72 @@ author: 윤지상
 <amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/KakaoTalk_20171205_175311202.jpg?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
 <hr/>
 
+<p>다음은 저희 조 최종발표 PPT자료입니다.</p>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C1.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C2.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C3.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C5.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+<h3>Image</h3>
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C8.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C9.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C10.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C11.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C12.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C13.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C14.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+
+<amp-img src="https://github.com/beargrllys/beargrllys.github.io/blob/master/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C15.JPG?raw=true" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+<hr/>
+
+<hr/>
+
+<hr />
+
 
 <h3 id="video">Video</h3>
 
