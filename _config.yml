@@ -1,6 +1,6 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: 오픈소스 6조
+description: 오픈소스 6조의 블로그입니다. Multitab은 윤지상을 뜻합니다.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -38,11 +38,11 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
+username: beargrllys #github username
+repo: beargrllys.github.io #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
+destination: ../beargrllys-pages/ #destination directory
 production_url:  https://samanyougarg.com/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
